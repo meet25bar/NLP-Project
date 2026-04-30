@@ -1,4 +1,4 @@
-📝 Yelp Review Sentiment Analysis (NLP)
+#📝 Yelp Review Sentiment Analysis (NLP)
 
 This project performs Natural Language Processing (NLP) on Yelp reviews to classify them as positive (5 stars) or negative (1 star) using Machine Learning.
 
